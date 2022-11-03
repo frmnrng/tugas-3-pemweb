@@ -7,7 +7,7 @@ function tombol() {
     area.innerHTML = 'INI BLOG TENTANG TRAVELING';
 
     const elemenP = document.createElement('h3'); 
-    const teksElementP = document.createTextNode('Saat ini saya sedang berada di Sliema, Malta setelah sebelumnya traveling keliling dunia dari Bali ke Atena (Yunani), Warsaw dan Krakow (Poland), Dublin (Irlandia) dan terakhir Utrecht dan Amsterdam (Belanda). Perjalanan tersebut saya mulai dari tanggal 13 Desember yang lalu. Artinya Malta adalah negara ke 5 yang saya kunjungi dalam 3 minggu. ')
+    const teksElementP = document.createTextNode('Traveling merupakan kegiatan yang menyenangkan dan hampir setiap orang pasti ingin melakukannya. Hal tersebut tidak mengherankan mengingat traveling dianggap bisa menghilangkan stres dan mengembalikan mood menjadi positif.')
        elemenP.appendChild(teksElementP); 
 
     const cetak = document.getElementById('body'); 
